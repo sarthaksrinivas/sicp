@@ -18,7 +18,7 @@ I will push up my reading notes, thoughts, and solutions to exercise problems as
         	- [X] Exercise 1.2
         	- [X] Exercise 1.3
         	- [X] Exercise 1.4
-        	- [ ] Exercise 1.5
+        	- [X] Exercise 1.5
         - [ ] 1.1.7  Example: Square Roots by Newton's Method
         	- [ ] Exercise 1.7
         	- [ ] Exercise 1.8

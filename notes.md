@@ -111,4 +111,7 @@ if b is negative, return - procedure to apply to a and b.
 resulting function is a + abs(b)
 
 # Exercise 1.5
+with applicative–order evaluation, the interpreter will be stuck in an infinite loop.
+with normal–order evaluation, the interpreter will print 1.
+this happens because applicative–order evaluation needs to evaluate all subexpressions before it can print an answer. if a subexpression evaluates to an infinite loop, the interpreter will hang. in normal-order evaluation, the same subexpression won't evaluate at all if it doesn't need to be evaluated to yield an answer (here, it is an optional else clause).
 
