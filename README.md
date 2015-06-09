@@ -3,7 +3,7 @@ Thank you Harold Abelson, Jay Sussman, Julie Sussman, and all others involved fo
 
 This repository documents my experience reading the [wizard book](http://en.wikipedia.org/wiki/Structure_and_Interpretation_of_Computer_Programs#cite_note-2). I am having a blast reading the book so far. :smiley:
 
-I will push up my reading notes, thoughts, and solutions to exercise problems as I go through the book. Once completed, I will compare my solution for a given exercise to [the community solutions posted online](http://community.schemewiki.org/?SICP-Solutions). The checklists below reflects my current reading and exercise progress.
+I will push up my reading notes, thoughts, and solutions to exercise problems as I go through the book. Once completed, I will compare my solution for a given exercise to [the community solutions posted online](http://community.schemewiki.org/?SICP-Solutions). The checklist below reflects my current reading and exercise progress.
 
 ## Reading and Exercise Checklist
 - [ ] 1  Building Abstractions with Procedures
